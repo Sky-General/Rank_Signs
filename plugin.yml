@@ -1,0 +1,5 @@
+name: Broadcast Sign
+author: skyGeneral
+version: 1
+description: Broadcast messages, from a sign!
+main: me.skyGeneral.SB.Main
